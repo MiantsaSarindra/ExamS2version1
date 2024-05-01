@@ -14,7 +14,7 @@
 
 # Mamboatra pages ok 
 ## index.php ok
-    1. S'INSCRIRE: OK         
+    1. S'INSCRIRE: OK               
         . Creer une page connection.php : mysqli_connect OK
             . index.php : OK
                 - Formulaire : method: get, action: traitement_signup.php OK
