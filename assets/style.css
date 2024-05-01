@@ -1,0 +1,75 @@
+body {
+    font-family: 'Noto Sans KR', 'Nunito', sans-serif;
+    background-color: #e8f5e9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 400px;
+    margin: 60px auto;
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 4px 10px rgba(0, 128, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #0c48b8;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    color: #0c48b8;
+    margin-bottom: 5px;
+}
+
+.container input[type="email"],
+.container input[type="text"],
+input[type="date"],
+input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #c8e6c9;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+.login-link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+input[type="submit"],
+.boutton {
+    background-color: #4879d4;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    margin-top: 26px;
+}
+
+input[type="submit"]:hover,
+.boutton:hover {
+    background-color: #02399e;
+}
+
+a {
+    color:#1549a8;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
