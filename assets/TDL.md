@@ -12,7 +12,7 @@
     - 10 objets par membre ok
     - 10 emprunts ok
 
-# Mamboatra pages 
+# Mamboatra pages ok
 ## index.php ok
     1. S'INSCRIRE: OK
         . Creer une page connection.php : mysqli_connect OK
